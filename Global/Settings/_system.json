@@ -1,0 +1,73 @@
+{
+    "SERVER": {
+        "ID": "1012088881325293680",
+        "Name": "H E M E R A"
+    },
+
+    "TOKENS": {
+        "Requirements": "OTM5ODQzOTYxNDc0OTA4MTky.GggEDI.ImvEcn4m90DM2-z0hJCjyadjKfu-8Pj8gLm4dI", 
+        "Statistics": "OTM5ODQzOTYxNDc0OTA4MTky.GggEDI.ImvEcn4m90DM2-z0hJCjyadjKfu-8Pj8gLm4dI",
+        "Voucher": "OTM5ODQzOTYxNDc0OTA4MTky.GggEDI.ImvEcn4m90DM2-z0hJCjyadjKfu-8Pj8gLm4dI",
+
+   "SECURITY": {
+            "MAIN": "OTM5ODQzOTYxNDc0OTA4MTky.GggEDI.ImvEcn4m90DM2-z0hJCjyadjKfu-8Pj8gLm4dI",
+            "SEC_ONE": "OTI2NTM1MjM4NDUxMDc3MTQx.G-zOG-.DjlUniKhtRzdif7Alqh7NwOc4YRaQvx4WN7ses",
+            "SEC_TWO": "OTI5MDA5OTkxMzM4MzI4MTM0.G_QaGC.pIViZVs6FjuPIOX8q3fszibRo3G3f345zF2zM8",
+            "SEC_THREE": "OTM4NzQxNjA0Nzg3ODIyNjEy.GqAxzP.uiyrnRrfhyEyXybHdMk-BNesg0m_vLNY_FkHPk",
+            "SEC_FOUR": "OTM4NzQyODA0ODI0MzU4OTMy.GD6fR1.oFmJaw75MRcdD8IR3aViuoEgao7GIH_lVDH9Cw",
+            "DISTS": [
+                "OTI2NTM1MjM4NDUxMDc3MTQx.G-zOG-.DjlUniKhtRzdif7Alqh7NwOc4YRaQvx4WN7ses",
+                "OTI5MDA5OTkxMzM4MzI4MTM0.G_QaGC.pIViZVs6FjuPIOX8q3fszibRo3G3f345zF2zM8",
+                "OTM4NzQxNjA0Nzg3ODIyNjEy.GqAxzP.uiyrnRrfhyEyXybHdMk-BNesg0m_vLNY_FkHPk",
+                "OTM4NzQyODA0ODI0MzU4OTMy.GD6fR1.oFmJaw75MRcdD8IR3aViuoEgao7GIH_lVDH9Cw"
+            ],
+            "GUILD_OWNER_TOKEN": ""
+        },
+
+        "WELCOME": {
+            "Active": false,
+            "WELCOMES": [""
+        ],
+            "WELCOME_CHANNELS": [""
+            ]
+        }
+    },
+    "botSettings": {
+        "Prefixs": [".","+","!","/"]
+    },
+    
+    "kanallar": {
+        "publicKategorisi": ["1016071701777354892"],
+        "sleepRoom": ["1012088885582499919"],
+        "musicRooms": ["1012088885582499917","1012088885582499918"],
+        "chatKanalı": ["1012690861965979698"]
+    },
+
+
+
+    "WELCOMES": [""
+    ],
+
+    "WELCOME_CHANNELS": [
+""
+    ],
+
+    "embed": {
+        "iconURL": "https://images-ext-1.discordapp.net/external/ov8pmdhvQJcTjEMW-97cWD2HnPsCuomW2tQLLOYz6oY/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/628978900604682243/61dd2fbb05249b88fd60c0526397c2b3.webp?width=192&height=192",
+        "başlık": "H E M E R A",
+        "altbaşlık": "Hemera Moderation",
+        "renk": "RANDOM"
+      },
+
+    "botStatus": {
+        "Status": "dnd",
+        "Name": "pashqs ❤️ Hemera",
+        "voiceChannelID": "1012229796169781328"
+    },
+    "Database" : {
+        "Active": true,
+        "MongoURL": "mongodb+srv://norths:norths__2022@cluster0.sk9zn.mongodb.net/dnmbot?retryWrites=true&w=majority"
+    }
+
+}
+
